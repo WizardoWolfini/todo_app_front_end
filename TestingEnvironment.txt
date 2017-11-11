@@ -1,3 +1,14 @@
-<DOCTYPE! = html>
+<!DOCTYPE html>
+<html>
+<head>
+<title>Title</title>
+</head>
+<body>
 <h1>Anything</h1>
-<p>Fill it with something</p>
+<p>Fill it with something</p><br>
+<p>Add</p><br>
+<p>some</p><br>
+<p>more</p><br>
+<p>paragraphs.</p>
+</body>
+</html>
