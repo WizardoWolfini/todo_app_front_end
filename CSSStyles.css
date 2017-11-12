@@ -1,6 +1,11 @@
 html{
     font-family: sans-serif;
-    background-color:#4444;
+    background-color:green;
+}
+.bodystuff{
+    margin:50px 0px 100px 0px;
+    background-color:#e0e0d1;
+    padding:30px;
 }
 .container {
     color:#444;
@@ -21,4 +26,26 @@ li{
     border:2px solid blue;
     width:200px;
     
+}
+#title{
+    font-size:50px;
+    color:black;
+    text-align: center;
+    border-radius:5px;
+    background-color:white;
+}
+ul{
+    list-style:square; 
+    padding:5px;
+    margin:10px;
+    background-color:#a1a1a1;
+    box-shadow:10px 10px 10px #888888;
+}
+.resize{
+    width:230px;
+    height:330px;
+}
+.centertext{
+    margin:auto;
+    width:50%;
 }
