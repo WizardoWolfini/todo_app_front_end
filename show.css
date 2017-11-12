@@ -1,0 +1,14 @@
+a{
+    text-decoration: none;
+    color:black;
+    vertical-align: top;
+}
+#Edit:hover{
+    background-color:blue;
+}
+#Delete:hover{
+    background-color:red;
+}
+#GoBack:hover{
+    background-color:green;
+}

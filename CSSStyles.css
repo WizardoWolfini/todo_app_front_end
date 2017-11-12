@@ -1,13 +1,13 @@
 html{
     font-family: sans-serif;
-    background-color:blue;
 }
 .bodystuff{
     margin:auto;
     margin-bottom:10px;
-    background-color:#e0e0d1;
+    background-color:white;
     padding:30px;
     width:70%;
+    border:3px solid black;
 }
 .container {
     color:#444;
@@ -32,24 +32,35 @@ li{
     
 }
 #title{
+    width:20%;
+    margin:auto;
+    margin-bottom: 30px;
     font-size:50px;
     color:black;
     text-align: center;
     border-radius:5px;
     background-color:white;
+    box-shadow:10px 10px 10px #444444;
+
 }
 ul{
-    list-style:square; 
+    list-style:none; 
     padding:5px;
     margin:10px;
     background-color:#a1a1a1;
-    box-shadow:10px 10px 10px #888888;
 }
 .resize{
     width:230px;
-    height:330px;
+    height:300px;
 }
 .centertext{
     margin:auto;
     width:50%;
+}
+#aright{
+    text-align:left;
+}
+.whitebackground{
+    background-color:white;
+    border-radius:10px;
 }
